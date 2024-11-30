@@ -1,6 +1,6 @@
 class Solution {
     public int romanToInt(String s) {
-        int out = 0, temp = 0;
+        int out = 0, temp = 0,prev=0;
         for (int i = s.length() - 1; i >= 0; i--) {
             switch (s.charAt(i)) {
                 case 'I':
@@ -25,10 +25,11 @@ class Solution {
                     temp = 1000;
                     break;
             }
-            if (4 * temp < out)
+            if (temp < prev)
                 out -= temp;
             else
                 out += temp;
+            prev=temp;
         }
         return out;
     }
