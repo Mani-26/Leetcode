@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Mani-26/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Mani-26/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
+| [2083-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/2083-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mani-26/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
