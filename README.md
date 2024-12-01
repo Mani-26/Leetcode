@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Mani-26/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mani-26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Mani-26/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Mani-26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mani-26/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Mani-26/Leetcode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/Mani-26/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mani-26/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Mani-26/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mani-26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mani-26/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
