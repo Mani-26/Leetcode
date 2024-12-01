@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Mani-26/Leetcode/tree/master/0202-happy-number) |
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2752-sum-multiples](https://github.com/Mani-26/Leetcode/tree/master/2752-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
