@@ -53,7 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Mani-26/Leetcode/tree/master/2652-sum-multiples) |
-| [2857-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2857-total-distance-traveled) |
+| [2739-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2739-total-distance-traveled) |
 ## Recursion
 |  |
 | ------- |
@@ -143,7 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Mani-26/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Mani-26/Leetcode/tree/master/0067-add-binary) |
-| [2857-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2857-total-distance-traveled) |
+| [2739-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2739-total-distance-traveled) |
 ## Bit Manipulation
 |  |
 | ------- |
