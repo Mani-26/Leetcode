@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Mani-26/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Mani-26/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Mani-26/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Recursion
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Mani-26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Mani-26/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Mani-26/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |
