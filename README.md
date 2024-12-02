@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Mani-26/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Mani-26/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Mani-26/Leetcode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/Mani-26/Leetcode/tree/master/0507-perfect-number) |
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2507-number-of-common-factors) |
