@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Mani-26/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Mani-26/Leetcode/tree/master/2652-sum-multiples) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mani-26/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2739-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2739-total-distance-traveled) |
