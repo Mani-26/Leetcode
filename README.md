@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2652-sum-multiples](https://github.com/Mani-26/Leetcode/tree/master/2652-sum-multiples) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mani-26/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2739-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2739-total-distance-traveled) |
+| [3371-harshad-number](https://github.com/Mani-26/Leetcode/tree/master/3371-harshad-number) |
 ## Recursion
 |  |
 | ------- |
