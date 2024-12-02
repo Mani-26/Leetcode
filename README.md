@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/Mani-26/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Mani-26/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Mani-26/Leetcode/tree/master/0507-perfect-number) |
+| [1642-water-bottles](https://github.com/Mani-26/Leetcode/tree/master/1642-water-bottles) |
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Mani-26/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Mani-26/Leetcode/tree/master/0067-add-binary) |
+| [1642-water-bottles](https://github.com/Mani-26/Leetcode/tree/master/1642-water-bottles) |
 | [2739-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2739-total-distance-traveled) |
 ## Bit Manipulation
 |  |
