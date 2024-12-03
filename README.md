@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1241-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mani-26/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3429-special-array-i](https://github.com/Mani-26/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Mani-26/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mani-26/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Mani-26/Leetcode/tree/master/2652-sum-multiples) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mani-26/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2739-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2739-total-distance-traveled) |
