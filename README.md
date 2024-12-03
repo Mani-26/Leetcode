@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/Mani-26/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/Mani-26/Leetcode/tree/master/1642-water-bottles) |
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mani-26/Leetcode/tree/master/0011-container-with-most-water) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mani-26/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 ## Trie
 |  |
