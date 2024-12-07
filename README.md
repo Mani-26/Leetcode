@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/Mani-26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Mani-26/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
+| [0283-move-zeroes](https://github.com/Mani-26/Leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Mani-26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mani-26/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mani-26/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Mani-26/Leetcode/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mani-26/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
