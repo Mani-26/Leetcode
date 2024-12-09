@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1241-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mani-26/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/Mani-26/Leetcode/tree/master/0441-arranging-coins) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/Mani-26/Leetcode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/1013-fibonacci-number) |
+| [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
