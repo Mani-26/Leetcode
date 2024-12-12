@@ -9,8 +9,7 @@ class Solution {
             int sq = (int) Math.sqrt(pq.poll());
             pq.add(sq);
         }
-        Iterator iterator = pq.iterator();
-        while (iterator.hasNext()) {
+        while (!pq.isEmpty()) {
             res += pq.poll();
         }
         return res;
