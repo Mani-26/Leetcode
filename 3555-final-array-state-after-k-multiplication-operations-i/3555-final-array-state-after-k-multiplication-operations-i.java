@@ -1,21 +1,16 @@
 class Solution {
     public int[] getFinalState(int[] nums, int k, int multiplier) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> {
-            if (a[0] == b[0]) {
-                return Integer.compare(a[1], b[1]);
+        int n = nums.length;
+        for (int i = 0; i < k; i++) {
+            int min = nums[0];
+            int minIndex = 0;
+            for (int j = 1; j < nums.length; j++) {
+                if (nums[j] < min) {
+                    min = nums[j];
+                    minIndex = j;
+                }
             }
-            return Integer.compare(a[0], b[0]);
-        });
-        int i = 0;
-        for (int num : nums) {
-            pq.add(new int[] { num, i });
-            i++;
-        }
-        for (int times = 1; times <= k; times++) {
-            int arr[] = pq.poll();
-            nums[arr[1]] *= multiplier;
-            arr[0] = nums[arr[1]];
-            pq.add(arr);
+            nums[minIndex] = min * multiplier;
         }
         return nums;
     }
