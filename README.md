@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1241-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mani-26/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mani-26/Leetcode/tree/master/0020-valid-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mani-26/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
 | ------- |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mani-26/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
