@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Mani-26/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,18 +253,21 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Mani-26/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mani-26/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mani-26/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Queue
 |  |
 | ------- |
