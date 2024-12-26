@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Mani-26/Leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Mani-26/Leetcode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Mani-26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
+| [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/1013-fibonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mani-26/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0052-n-queens-ii](https://github.com/Mani-26/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Mani-26/Leetcode/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
