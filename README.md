@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1063-best-sightseeing-pair](https://github.com/Mani-26/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/Mani-26/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
 |  |
