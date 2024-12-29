@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Mani-26/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mani-26/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mani-26/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Mani-26/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mani-26/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mani-26/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mani-26/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mani-26/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Mani-26/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/Mani-26/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mani-26/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mani-26/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mani-26/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mani-26/Leetcode/tree/master/0048-rotate-image) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mani-26/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
