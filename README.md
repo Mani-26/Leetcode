@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/Mani-26/Leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mani-26/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Mani-26/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Mani-26/Leetcode/tree/master/1651-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Mani-26/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Mani-26/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3152-special-array-ii](https://github.com/Mani-26/Leetcode/tree/master/3152-special-array-ii) |
 ## Monotonic Queue
 |  |
