@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mani-26/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1651-shuffle-string](https://github.com/Mani-26/Leetcode/tree/master/1651-shuffle-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mani-26/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mani-26/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Mani-26/Leetcode/tree/master/1651-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Mani-26/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mani-26/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Mani-26/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mani-26/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mani-26/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mani-26/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Mani-26/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mani-26/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
