@@ -1,12 +1,14 @@
 class Solution {
     public List<String> stringMatching(String[] words) {
-        String word = String.join(" ", words);
-        List<String> li = new ArrayList<>();
-        for(int i = 0; i < words.length; i++){
-            if(word.indexOf(words[i]) != word.lastIndexOf(words[i])){
-                li.add(words[i]);
+        List<String> result = new ArrayList<>();
+        for (int i = 0; i < words.length; i++) {
+            for (int j = 0; j < words.length; j++) {
+                if (i != j && words[j].contains(words[i])) {
+                    result.add(words[i]);
+                    break; 
+                }
             }
         }
-        return li;
+        return result;
     }
 }
