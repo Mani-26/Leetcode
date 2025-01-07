@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1313-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mani-26/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1524-string-matching-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/Mani-26/Leetcode/tree/master/1651-shuffle-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mani-26/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/Mani-26/Leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mani-26/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1524-string-matching-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mani-26/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Mani-26/Leetcode/tree/master/1651-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Mani-26/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mani-26/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1524-string-matching-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Simulation
 |  |
 | ------- |
