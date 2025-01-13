@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Mani-26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mani-26/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mani-26/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Mani-26/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Mani-26/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Mani-26/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Mani-26/Leetcode/tree/master/0904-leaf-similar-trees) |
