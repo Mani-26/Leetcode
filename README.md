@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mani-26/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mani-26/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mani-26/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3151-special-array-i](https://github.com/Mani-26/Leetcode/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/Mani-26/Leetcode/tree/master/3152-special-array-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mani-26/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mani-26/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mani-26/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/Mani-26/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/Mani-26/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mani-26/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mani-26/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
 | ------- |
