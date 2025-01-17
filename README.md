@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/Mani-26/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-shifting-letters-ii](https://github.com/Mani-26/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Mani-26/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mani-26/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mani-26/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0461-hamming-distance](https://github.com/Mani-26/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mani-26/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2509-minimize-xor](https://github.com/Mani-26/Leetcode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Mani-26/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mani-26/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Mani-26/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Mani-26/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
