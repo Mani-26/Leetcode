@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mani-26/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Mani-26/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Mani-26/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Mani-26/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mani-26/Leetcode/tree/master/0048-rotate-image) |
+| [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Mani-26/Leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mani-26/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Mani-26/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -450,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
