@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Mani-26/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mani-26/Leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Mani-26/Leetcode/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mani-26/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mani-26/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Mani-26/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mani-26/Leetcode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Mani-26/Leetcode/tree/master/0443-string-compression) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mani-26/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Mani-26/Leetcode/tree/master/1768-merge-strings-alternately) |
