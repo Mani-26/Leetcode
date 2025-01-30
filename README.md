@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/Mani-26/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mani-26/Leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Mani-26/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mani-26/Leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Mani-26/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mani-26/Leetcode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
