@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3152-special-array-ii](https://github.com/Mani-26/Leetcode/tree/master/3152-special-array-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mani-26/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/Mani-26/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
