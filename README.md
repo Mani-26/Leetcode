@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1651-shuffle-string](https://github.com/Mani-26/Leetcode/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/Mani-26/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/Mani-26/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mani-26/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mani-26/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mani-26/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mani-26/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mani-26/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mani-26/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Mani-26/Leetcode/tree/master/2509-minimize-xor) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
