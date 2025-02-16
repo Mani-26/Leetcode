@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mani-26/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mani-26/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mani-26/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Mani-26/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mani-26/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1518-water-bottles](https://github.com/Mani-26/Leetcode/tree/master/1518-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mani-26/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Mani-26/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/Mani-26/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mani-26/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2739-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2739-total-distance-traveled) |
