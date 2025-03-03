@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2145-grid-game](https://github.com/Mani-26/Leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mani-26/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mani-26/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mani-26/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mani-26/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mani-26/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Mani-26/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mani-26/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Mani-26/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/Mani-26/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Mani-26/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1518-water-bottles](https://github.com/Mani-26/Leetcode/tree/master/1518-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mani-26/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mani-26/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Mani-26/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/Mani-26/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Mani-26/Leetcode/tree/master/2551-apply-operations-to-an-array) |
