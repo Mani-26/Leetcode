@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Mani-26/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mani-26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Mani-26/Leetcode/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/Mani-26/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mani-26/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/Mani-26/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mani-26/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mani-26/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Mani-26/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mani-26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mani-26/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mani-26/Leetcode/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Mani-26/Leetcode/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
