@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Mani-26/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mani-26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mani-26/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Mani-26/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mani-26/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mani-26/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Mani-26/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mani-26/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mani-26/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mani-26/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mani-26/Leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mani-26/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/Mani-26/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Mani-26/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Mani-26/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Mani-26/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Mani-26/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mani-26/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Mani-26/Leetcode/tree/master/0441-arranging-coins) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mani-26/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mani-26/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Mani-26/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mani-26/Leetcode/tree/master/0441-arranging-coins) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Mani-26/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mani-26/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Mani-26/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Mani-26/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mani-26/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Mani-26/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mani-26/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Mani-26/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mani-26/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mani-26/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mani-26/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mani-26/Leetcode/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
