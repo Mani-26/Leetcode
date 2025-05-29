@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Mani-26/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mani-26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Mani-26/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Mani-26/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mani-26/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mani-26/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Mani-26/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Mani-26/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mani-26/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Mani-26/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mani-26/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Mani-26/Leetcode/tree/master/0168-excel-sheet-column-title) |
