@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mani-26/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mani-26/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3396-valid-word](https://github.com/Mani-26/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Mani-26/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
