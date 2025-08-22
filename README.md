@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mani-26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mani-26/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mani-26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mani-26/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mani-26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
 | ------- |
