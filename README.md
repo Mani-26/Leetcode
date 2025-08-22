@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/Mani-26/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Mani-26/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mani-26/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Mani-26/Leetcode/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mani-26/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/Mani-26/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
