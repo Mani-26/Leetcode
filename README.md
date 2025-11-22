@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/Mani-26/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3151-special-array-i](https://github.com/Mani-26/Leetcode/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/Mani-26/Leetcode/tree/master/3152-special-array-ii) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mani-26/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mani-26/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2739-total-distance-traveled](https://github.com/Mani-26/Leetcode/tree/master/2739-total-distance-traveled) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mani-26/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3099-harshad-number](https://github.com/Mani-26/Leetcode/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mani-26/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mani-26/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
