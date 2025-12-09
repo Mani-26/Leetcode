@@ -4,17 +4,19 @@ class Solution {
         int i = 0;
         int j = str.length - 1;
         while (i < j) {
-            while (!Character.isLetter(str[i])&&i<j) {
+            if (!Character.isLetter(str[i]) && i < j) {
                 i++;
             }
-            while (!Character.isLetter(str[j])&&i<j) {
+            else if (!Character.isLetter(str[j]) && i < j) {
                 j--;
             }
-            char ch = str[i];
-            str[i] = str[j];
-            str[j] = ch;
-            i++;
-            j--;
+            else{
+                char ch = str[i];
+                str[i] = str[j];
+                str[j] = ch;
+                i++;
+                j--;
+            }
         }
         return new String(str);
     }
