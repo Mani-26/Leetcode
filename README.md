@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
 | [989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/989-add-to-array-form-of-integer) |
+| [0989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1014-best-sightseeing-pair](https://github.com/Mani-26/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/Mani-26/Leetcode/tree/master/0507-perfect-number) |
 | [509-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/509-fibonacci-number) |
 | [989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/989-add-to-array-form-of-integer) |
+| [0989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mani-26/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mani-26/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
