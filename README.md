@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mani-26/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/989-add-to-array-form-of-integer) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1014-best-sightseeing-pair](https://github.com/Mani-26/Leetcode/tree/master/1014-best-sightseeing-pair) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/Mani-26/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Mani-26/Leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mani-26/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1364-tuple-with-same-product](https://github.com/Mani-26/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mani-26/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
