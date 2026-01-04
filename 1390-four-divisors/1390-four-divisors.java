@@ -1,14 +1,18 @@
 class Solution {
     private int divisor(int num) {
-        int res = num + 1;
-        int count = 2;
-        for (int i = 2; i < num; i++) {
+        int res = 0;
+        int count = 0;
+        for (int i = 1; i * i <= num; i++) {
             if (num % i == 0) {
                 count++;
                 res += i;
+                if (i * i != num) {
+                    count++;
+                    res += num / i;
+                }
             }
             if (count > 4)
-                return 0;
+                break;
         }
         return (count == 4) ? res : 0;
     }
