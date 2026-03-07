@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/Mani-26/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mani-26/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Mani-26/Leetcode/tree/master/0645-set-mismatch) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mani-26/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Mani-26/Leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/Mani-26/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Mani-26/Leetcode/tree/master/0507-perfect-number) |
 | [509-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/989-add-to-array-form-of-integer) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mani-26/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mani-26/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mani-26/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mani-26/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
