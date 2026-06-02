@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mani-26/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4008-restore-finishing-order](https://github.com/Mani-26/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Mani-26/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Mani-26/Leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Merge Sort
 |  |
 | ------- |
@@ -724,4 +726,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Mani-26/Leetcode/tree/master/0561-array-partition) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
