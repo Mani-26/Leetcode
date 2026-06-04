@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3462-vowels-game-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mani-26/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Mani-26/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
