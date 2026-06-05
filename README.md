@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mani-26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/Mani-26/Leetcode/tree/master/3945-digit-frequency-score) |
 | [4008-restore-finishing-order](https://github.com/Mani-26/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Linked List
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mani-26/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mani-26/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/Mani-26/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
