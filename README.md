@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mani-26/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mani-26/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mani-26/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mani-26/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mani-26/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mani-26/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Mani-26/Leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Merge Sort
 |  |
