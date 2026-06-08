@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mani-26/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mani-26/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mani-26/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Mani-26/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mani-26/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mani-26/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0693-binary-number-with-alternating-bits](https://github.com/Mani-26/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
 | [1720-decode-xored-array](https://github.com/Mani-26/Leetcode/tree/master/1720-decode-xored-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Mani-26/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2509-minimize-xor](https://github.com/Mani-26/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mani-26/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mani-26/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
