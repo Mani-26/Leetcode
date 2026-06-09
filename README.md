@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mani-26/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Mani-26/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4008-restore-finishing-order](https://github.com/Mani-26/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Mani-26/Leetcode/tree/master/4058-compute-alternating-sum) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/Mani-26/Leetcode/tree/master/2509-minimize-xor) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Mani-26/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Mani-26/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
