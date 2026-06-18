@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mani-26/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mani-26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3941-password-strength](https://github.com/Mani-26/Leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Mani-26/Leetcode/tree/master/3945-digit-frequency-score) |
 | [4008-restore-finishing-order](https://github.com/Mani-26/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Linked List
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3794-reverse-string-prefix](https://github.com/Mani-26/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mani-26/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mani-26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3941-password-strength](https://github.com/Mani-26/Leetcode/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |
