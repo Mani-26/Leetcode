@@ -28,7 +28,6 @@ class Solution {
         }
 
         while (head != null && prev != null) {
-            System.out.println(head.val + " " + prev.val);
             if (head.val != prev.val) {
                 return false;
             }
