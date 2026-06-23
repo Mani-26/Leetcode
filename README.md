@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mani-26/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1364-tuple-with-same-product](https://github.com/Mani-26/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1390-four-divisors](https://github.com/Mani-26/Leetcode/tree/master/1390-four-divisors) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Mani-26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mani-26/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mani-26/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mani-26/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Mani-26/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mani-26/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mani-26/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Mani-26/Leetcode/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Mani-26/Leetcode/tree/master/2145-grid-game) |
