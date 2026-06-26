@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/Mani-26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Mani-26/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mani-26/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mani-26/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mani-26/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mani-26/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mani-26/Leetcode/tree/master/0136-single-number) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Mani-26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mani-26/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mani-26/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mani-26/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mani-26/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Mani-26/Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mani-26/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/Mani-26/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mani-26/Leetcode/tree/master/0605-can-place-flowers) |
