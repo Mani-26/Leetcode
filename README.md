@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Mani-26/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mani-26/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Mani-26/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Mani-26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mani-26/Leetcode/tree/master/0724-find-pivot-index) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Mani-26/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mani-26/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mani-26/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
