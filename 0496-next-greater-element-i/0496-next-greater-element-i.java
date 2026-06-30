@@ -1,12 +1,12 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         HashMap<Integer, Integer> hm=new HashMap<>();
-        Stack<Integer> st=new Stack<>();
+        ArrayList<Integer> st=new ArrayList<>();
         for(int i:nums2){
-            while(!st.isEmpty()&&st.peek()<i){
-                hm.put(st.pop(),i);
+            while(!st.isEmpty()&&st.get(st.size()-1)<i){
+                hm.put(st.remove(st.size()-1),i);
             }
-            st.push(i);
+            st.add(i);
         }
         for(int i=0;i<nums1.length;i++){
             nums1[i]=hm.getOrDefault(nums1[i],-1);
