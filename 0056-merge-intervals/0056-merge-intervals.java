@@ -14,11 +14,6 @@ class Solution {
             end=intervals[i][1];
         }
         hm.add(new int[]{start,end});
-        int arr[][]=new int[hm.size()][2];
-        int ind=0;
-        for(int i[]:hm){
-            arr[ind++]=i;
-        }
-        return arr;
+        return hm.toArray(new int[hm.size()][]);
     }
 }
