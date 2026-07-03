@@ -1,42 +1,29 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- * int val;
- * ListNode next;
- * ListNode() {}
- * ListNode(int val) { this.val = val; }
- * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        ListNode res = new ListNode(0);
-        ListNode li=res;
-        int n=0;
-        for (ListNode list : lists) {
-            while(list!=null){
-                ListNode newNode = new ListNode(list.val);
-                li.next=newNode;
-                li=li.next;
-                list=list.next;
-                n++;
+        PriorityQueue<ListNode> pq=new PriorityQueue<>((a,b)->a.val-b.val);
+        for(ListNode node:lists){
+            if(node!=null) pq.offer(node);
+        }
+        ListNode head=new ListNode(0);
+        ListNode curr=head;
+        while(!pq.isEmpty()){
+            ListNode temp=pq.poll();
+            curr.next=temp;
+            curr=curr.next;
+            if(curr.next!=null){
+                pq.offer(curr.next);
             }
         }
-        ListNode h=res.next;
-        while(h!=null){
-            ListNode min=h;
-            ListNode temp=h.next;
-            while(temp!=null){
-                if(min.val>temp.val){
-                    min=temp;
-                }
-                temp=temp.next;
-            }
-            int data=min.val;
-            min.val=h.val;
-            h.val=data;
-            h=h.next;
-        }
-        return res.next;
+        return head.next;
     }
 }
