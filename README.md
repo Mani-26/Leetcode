@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Mani-26/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mani-26/Leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mani-26/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0433-minimum-genetic-mutation](https://github.com/Mani-26/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mani-26/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Mani-26/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mani-26/Leetcode/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/Mani-26/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Mani-26/Leetcode/tree/master/0443-string-compression) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Mani-26/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0433-minimum-genetic-mutation](https://github.com/Mani-26/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0684-redundant-connection](https://github.com/Mani-26/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Mani-26/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-k-similar-strings](https://github.com/Mani-26/Leetcode/tree/master/0854-k-similar-strings) |
