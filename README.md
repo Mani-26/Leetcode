@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Mani-26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mani-26/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Mani-26/Leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Mani-26/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Mani-26/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Mani-26/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mani-26/Leetcode/tree/master/0389-find-the-difference) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/Mani-26/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mani-26/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Mani-26/Leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Mani-26/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mani-26/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mani-26/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mani-26/Leetcode/tree/master/0389-find-the-difference) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mani-26/Leetcode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Mani-26/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Mani-26/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Mani-26/Leetcode/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mani-26/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
