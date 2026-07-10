@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0434-number-of-segments-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Mani-26/Leetcode/tree/master/0443-string-compression) |
+| [0466-count-the-repetitions](https://github.com/Mani-26/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mani-26/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0591-tag-validator](https://github.com/Mani-26/Leetcode/tree/master/0591-tag-validator) |
 | [0726-number-of-atoms](https://github.com/Mani-26/Leetcode/tree/master/0726-number-of-atoms) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Mani-26/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mani-26/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Mani-26/Leetcode/tree/master/0443-string-compression) |
+| [0466-count-the-repetitions](https://github.com/Mani-26/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0658-find-k-closest-elements](https://github.com/Mani-26/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Mani-26/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Mani-26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Mani-26/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Mani-26/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0466-count-the-repetitions](https://github.com/Mani-26/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
 | [509-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/Mani-26/Leetcode/tree/master/0546-remove-boxes) |
