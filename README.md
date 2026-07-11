@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/Mani-26/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mani-26/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Mani-26/Leetcode/tree/master/1651-shuffle-string) |
+| [1701-average-waiting-time](https://github.com/Mani-26/Leetcode/tree/master/1701-average-waiting-time) |
 | [1720-crawler-log-folder](https://github.com/Mani-26/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1720-decode-xored-array](https://github.com/Mani-26/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mani-26/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
 | [1518-water-bottles](https://github.com/Mani-26/Leetcode/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/Mani-26/Leetcode/tree/master/1603-design-parking-system) |
+| [1701-average-waiting-time](https://github.com/Mani-26/Leetcode/tree/master/1701-average-waiting-time) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mani-26/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Mani-26/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
