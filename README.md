@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mani-26/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3136-valid-word](https://github.com/Mani-26/Leetcode/tree/master/3136-valid-word) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3330-find-the-original-typed-string-i](https://github.com/Mani-26/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3396-valid-word](https://github.com/Mani-26/Leetcode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Mani-26/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Mani-26/Leetcode/tree/master/3447-clear-digits) |
