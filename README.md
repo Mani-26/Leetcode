@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/Mani-26/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Mani-26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mani-26/Leetcode/tree/master/0724-find-pivot-index) |
+| [0741-cherry-pickup](https://github.com/Mani-26/Leetcode/tree/master/0741-cherry-pickup) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mani-26/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Mani-26/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
 | [509-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/Mani-26/Leetcode/tree/master/0546-remove-boxes) |
+| [0741-cherry-pickup](https://github.com/Mani-26/Leetcode/tree/master/0741-cherry-pickup) |
 | [1014-best-sightseeing-pair](https://github.com/Mani-26/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mani-26/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Mani-26/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mani-26/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0741-cherry-pickup](https://github.com/Mani-26/Leetcode/tree/master/0741-cherry-pickup) |
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
