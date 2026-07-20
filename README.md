@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-best-sightseeing-pair](https://github.com/Mani-26/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mani-26/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/Mani-26/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mani-26/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/Mani-26/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Mani-26/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/Mani-26/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Mani-26/Leetcode/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/Mani-26/Leetcode/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/Mani-26/Leetcode/tree/master/1701-average-waiting-time) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Mani-26/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0741-cherry-pickup](https://github.com/Mani-26/Leetcode/tree/master/0741-cherry-pickup) |
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/Mani-26/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
