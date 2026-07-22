@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mani-26/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2413-smallest-even-multiple](https://github.com/Mani-26/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mani-26/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/Mani-26/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Mani-26/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
