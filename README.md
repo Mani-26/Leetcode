@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mani-26/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mani-26/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mani-26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mani-26/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Mani-26/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mani-26/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mani-26/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mani-26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
