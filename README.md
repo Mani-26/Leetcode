@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0546-remove-boxes](https://github.com/Mani-26/Leetcode/tree/master/0546-remove-boxes) |
 | [0561-array-partition](https://github.com/Mani-26/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mani-26/Leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mani-26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mani-26/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Mani-26/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Mani-26/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/Mani-26/Leetcode/tree/master/0507-perfect-number) |
 | [509-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mani-26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/989-add-to-array-form-of-integer) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mani-26/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/Mani-26/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Mani-26/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Mani-26/Leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mani-26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mani-26/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Mani-26/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Mani-26/Leetcode/tree/master/0658-find-k-closest-elements) |
