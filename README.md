@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mani-26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mani-26/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mani-26/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mani-26/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mani-26/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mani-26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mani-26/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mani-26/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
