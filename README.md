@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-reverse-only-letters](https://github.com/Mani-26/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Mani-26/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+| [1021-remove-outermost-parentheses](https://github.com/Mani-26/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Mani-26/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mani-26/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mani-26/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/Mani-26/Leetcode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/Mani-26/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Mani-26/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mani-26/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Mani-26/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mani-26/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -909,4 +911,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mani-26/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Mani-26/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
