@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mani-26/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mani-26/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3136-valid-word](https://github.com/Mani-26/Leetcode/tree/master/3136-valid-word) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mani-26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/Mani-26/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3396-valid-word](https://github.com/Mani-26/Leetcode/tree/master/3396-valid-word) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0052-n-queens-ii](https://github.com/Mani-26/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Mani-26/Leetcode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Mani-26/Leetcode/tree/master/0494-target-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mani-26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mani-26/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mani-26/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Mani-26/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mani-26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
 | ------- |
