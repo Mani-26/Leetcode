@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mani-26/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mani-26/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mani-26/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mani-26/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Mani-26/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mani-26/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mani-26/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mani-26/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mani-26/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mani-26/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/Mani-26/Leetcode/tree/master/3136-valid-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mani-26/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Mani-26/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mani-26/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mani-26/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mani-26/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
