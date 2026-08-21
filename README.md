@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/Mani-26/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Mani-26/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mani-26/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mani-26/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mani-26/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mani-26/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mani-26/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2442-number-of-arithmetic-triplets](https://github.com/Mani-26/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Mani-26/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Mani-26/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mani-26/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mani-26/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mani-26/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mani-26/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/Mani-26/Leetcode/tree/master/2509-minimize-xor) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Mani-26/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mani-26/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mani-26/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mani-26/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
