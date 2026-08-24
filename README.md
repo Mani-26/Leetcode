@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/Mani-26/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1720-decode-xored-array](https://github.com/Mani-26/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mani-26/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Mani-26/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mani-26/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mani-26/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mani-26/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1518-water-bottles](https://github.com/Mani-26/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mani-26/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Mani-26/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Mani-26/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mani-26/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mani-26/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -930,4 +932,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Mani-26/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Mani-26/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
