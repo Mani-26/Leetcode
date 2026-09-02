@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/Mani-26/Leetcode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0546-remove-boxes](https://github.com/Mani-26/Leetcode/tree/master/0546-remove-boxes) |
+| [0560-subarray-sum-equals-k](https://github.com/Mani-26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mani-26/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mani-26/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mani-26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Mani-26/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mani-26/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/Mani-26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mani-26/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Mani-26/Leetcode/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/Mani-26/Leetcode/tree/master/0726-number-of-atoms) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Mani-26/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mani-26/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Mani-26/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Mani-26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mani-26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mani-26/Leetcode/tree/master/0724-find-pivot-index) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Mani-26/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
