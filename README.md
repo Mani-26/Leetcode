@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1944-truncate-sentence](https://github.com/Mani-26/Leetcode/tree/master/1944-truncate-sentence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Mani-26/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Mani-26/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2145-grid-game](https://github.com/Mani-26/Leetcode/tree/master/2145-grid-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mani-26/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/Mani-26/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Mani-26/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mani-26/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mani-26/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/Mani-26/Leetcode/tree/master/1944-truncate-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mani-26/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Mani-26/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Mani-26/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mani-26/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -911,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/Mani-26/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Mani-26/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mani-26/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mani-26/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mani-26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
