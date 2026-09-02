@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0798-smallest-rotation-with-highest-score](https://github.com/Mani-26/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0861-flipping-an-image](https://github.com/Mani-26/Leetcode/tree/master/0861-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mani-26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mani-26/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [989-add-to-array-form-of-integer](https://github.com/Mani-26/Leetcode/tree/master/989-add-to-array-form-of-integer) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/Mani-26/Leetcode/tree/master/0726-number-of-atoms) |
 | [0854-k-similar-strings](https://github.com/Mani-26/Leetcode/tree/master/0854-k-similar-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mani-26/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mani-26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mani-26/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mani-26/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/Mani-26/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Mani-26/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mani-26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mani-26/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mani-26/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mani-26/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Mani-26/Leetcode/tree/master/0724-find-pivot-index) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Mani-26/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mani-26/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mani-26/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mani-26/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mani-26/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mani-26/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
