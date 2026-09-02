@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mani-26/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mani-26/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mani-26/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mani-26/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mani-26/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Mani-26/Leetcode/tree/master/0684-redundant-connection) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mani-26/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Mani-26/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mani-26/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mani-26/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Mani-26/Leetcode/tree/master/0684-redundant-connection) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mani-26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mani-26/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mani-26/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mani-26/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
