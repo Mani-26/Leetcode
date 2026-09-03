@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mani-26/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mani-26/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2315-count-asterisks](https://github.com/Mani-26/Leetcode/tree/master/2315-count-asterisks) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Mani-26/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Mani-26/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Mani-26/Leetcode/tree/master/2470-removing-stars-from-a-string) |
