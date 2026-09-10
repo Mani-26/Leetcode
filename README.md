@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mani-26/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mani-26/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mani-26/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mani-26/Leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mani-26/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Mani-26/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mani-26/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mani-26/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mani-26/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mani-26/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mani-26/Leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Queue
