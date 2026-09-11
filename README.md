@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Mani-26/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Mani-26/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mani-26/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/Mani-26/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2145-grid-game](https://github.com/Mani-26/Leetcode/tree/master/2145-grid-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mani-26/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Mani-26/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mani-26/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mani-26/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mani-26/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/Mani-26/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mani-26/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [509-fibonacci-number](https://github.com/Mani-26/Leetcode/tree/master/509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mani-26/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mani-26/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1291-sequential-digits](https://github.com/Mani-26/Leetcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Mani-26/Leetcode/tree/master/1952-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mani-26/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mani-26/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Mani-26/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -871,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mani-26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mani-26/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mani-26/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mani-26/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Mani-26/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mani-26/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
