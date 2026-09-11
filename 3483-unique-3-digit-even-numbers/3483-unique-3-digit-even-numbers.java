@@ -1,35 +1,39 @@
 class Solution {
-    HashSet<String> hs = new HashSet<>();
     int n;
     int digits[];
+    int count = 0;
 
     public int totalNumbers(int[] digits) {
+        count = 0;
         n = digits.length;
         this.digits = digits;
-        boolean[] flag=new boolean[n];
+        boolean[] flag = new boolean[n];
+        boolean[] used = new boolean[10];
         for (int i = 0; i < n; i++) {
-            if (digits[i] == 0)
+            if (digits[i] == 0 || used[digits[i]])
                 continue;
-            flag[i]=true;
-            make3Digit("" + digits[i], i,flag);
-            flag[i]=false;
+            used[digits[i]] = true;
+            flag[i] = true;
+            make3Digit(digits[i], flag);
+            flag[i] = false;
         }
-        return hs.size();
+        return count;
     }
 
-    void make3Digit(String s, int i,boolean[] flag) {
-        if (s.length() == 3) {
-            // System.out.println(s);
-            if ((s.charAt(2) - '0') % 2 == 0)
-                hs.add(s);
+    void make3Digit(int num, boolean[] flag) {
+        if (num >= 100) {
+            if (num % 2 == 0)
+                count++;
             return;
         }
+        boolean[] used = new boolean[10];
         for (int j = 0; j < n; j++) {
-            if (flag[j])
+            if (flag[j] || used[digits[j]])
                 continue;
-            flag[j]=true;
-            make3Digit(s + digits[j], j,flag);
-            flag[j]=false;
+            used[digits[j]] = true;
+            flag[j] = true;
+            make3Digit(num * 10 + digits[j], flag);
+            flag[j] = false;
         }
     }
 }
