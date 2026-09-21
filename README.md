@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mani-26/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mani-26/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mani-26/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mani-26/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mani-26/Leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mani-26/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mani-26/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mani-26/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mani-26/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Mani-26/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-k-similar-strings](https://github.com/Mani-26/Leetcode/tree/master/0854-k-similar-strings) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mani-26/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mani-26/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1396-count-servers-that-communicate](https://github.com/Mani-26/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mani-26/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Mani-26/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mani-26/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mani-26/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mani-26/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mani-26/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mani-26/Leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
