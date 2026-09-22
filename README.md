@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3689-maximum-total-subarray-value-i](https://github.com/Mani-26/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Mani-26/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mani-26/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Mani-26/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3904-smallest-stable-index-ii](https://github.com/Mani-26/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4008-restore-finishing-order](https://github.com/Mani-26/Leetcode/tree/master/4008-restore-finishing-order) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3783-mirror-distance-of-an-integer](https://github.com/Mani-26/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Mani-26/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mani-26/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Mani-26/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Mani-26/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
