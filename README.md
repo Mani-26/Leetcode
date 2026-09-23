@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3904-smallest-stable-index-ii](https://github.com/Mani-26/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4008-restore-finishing-order](https://github.com/Mani-26/Leetcode/tree/master/4008-restore-finishing-order) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Mani-26/Leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4058-compute-alternating-sum](https://github.com/Mani-26/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/Mani-26/Leetcode/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mani-26/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mani-26/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Mani-26/Leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4058-compute-alternating-sum](https://github.com/Mani-26/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Mani-26/Leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Merge Sort
 |  |
 | ------- |
