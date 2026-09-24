@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Mani-26/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mani-26/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mani-26/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mani-26/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mani-26/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Mani-26/Leetcode/tree/master/3731-find-missing-elements) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3462-vowels-game-in-a-string](https://github.com/Mani-26/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mani-26/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mani-26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mani-26/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mani-26/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Mani-26/Leetcode/tree/master/3870-count-commas-in-range) |
