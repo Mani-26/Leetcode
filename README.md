@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-k-similar-strings](https://github.com/Mani-26/Leetcode/tree/master/0854-k-similar-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mani-26/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Mani-26/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mani-26/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/Mani-26/Leetcode/tree/master/0952-word-subsets) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Mani-26/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/Mani-26/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Mani-26/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mani-26/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mani-26/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Mani-26/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mani-26/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mani-26/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/Mani-26/Leetcode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mani-26/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/Mani-26/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mani-26/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mani-26/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mani-26/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mani-26/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mani-26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mani-26/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mani-26/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mani-26/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mani-26/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mani-26/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
