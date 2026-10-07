@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2097-valid-arrangement-of-pairs](https://github.com/Mani-26/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mani-26/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mani-26/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/Mani-26/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mani-26/Leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mani-26/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mani-26/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Mani-26/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mani-26/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Database
 |  |
@@ -1055,4 +1058,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Mani-26/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Mani-26/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
