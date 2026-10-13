@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mani-26/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mani-26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mani-26/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mani-26/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mani-26/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mani-26/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Mani-26/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mani-26/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mani-26/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mani-26/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mani-26/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mani-26/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mani-26/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mani-26/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mani-26/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mani-26/Leetcode/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
