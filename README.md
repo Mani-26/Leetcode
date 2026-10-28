@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/Mani-26/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mani-26/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mani-26/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mani-26/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-apply-operations-to-an-array](https://github.com/Mani-26/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mani-26/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/Mani-26/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Mani-26/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mani-26/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mani-26/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mani-26/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mani-26/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mani-26/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2145-grid-game](https://github.com/Mani-26/Leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mani-26/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Mani-26/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mani-26/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mani-26/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Mani-26/Leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Merge Sort
