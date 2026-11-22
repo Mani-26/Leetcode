@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mani-26/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Mani-26/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mani-26/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mani-26/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/Mani-26/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mani-26/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mani-26/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
